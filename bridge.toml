@@ -15,6 +15,7 @@ tagline = "Vector drawing and tracing"
 publisher = "Ighor Toth"
 bundle_id = "dev.tracedraw.app"   # CFBundleIdentifier in upstream's Info.plist
 website = "https://github.com/igtoth/tracedraw"
+web_demo = "https://playground.daijro.dev/head/tracedraw/"   # playground.daijro.dev's build of upstream's latest commit
 color = "#4fb8f5"
 
 [icon]
